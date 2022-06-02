@@ -1,0 +1,13 @@
+book_name|/|number_of_copies|/|restrictions|/|borrowed_times|/|total_rent_time|/|b|o|r|r|o|w|e|r|_|i|n|f|o|s
+Introduction to python|/|3|/|True|/|0|/|0|/|Adam|1|6|3|0
+Dacheng Laojiukan Quanwen Shujuku (大成老旧刊全文数据库)|/|7|/|True|/|0|/|0|/|Adam|1|6|3|0
+India, Raj and Empire|/|4|/|True|/|0|/|0|/|Adam|1|6|3|0
+Technical Report Archive and Image Library (TRAIL)|/|2|/|False|/|0|/|0|/|Adam|1|6|3|0
+Women's Studies (Adam Matthew Digital)|/|11|/|True|/|0|/|0|/|Adam|1|6|3|0
+Medical Letter Databases|/|1|/|False|/|0|/|0|/|Adam|1|6|3|0
+ICC Dispute Resolution Library|/|2|/|False|/|0|/|0|/|Adam|1|6|3|0
+Eye of the world|/|1|/|False|/|0|/|0|/|Adam|1|6|3|0
+Index Translationum|/|9|/|False|/|0|/|0|/|Adam|1|6|3|0
+Taylor & Francis eBooks|/|2|/|True|/|0|/|0|/|Adam|1|6|3|0
+Meiji Japan: The Edward Sylvester Morse Collection from the Peabody Essex Museum, Salem|/|2|/|True|/|0|/|0|/|Adam|1|6|3|0
+Introduction to programming|/|9|/|False|/|0|/|0|/|Adam|1|6|3|0
